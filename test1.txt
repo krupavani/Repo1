@@ -1,0 +1,10 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is 6C76-591F
+
+ Directory of C:\Users\chappala\Desktop\MyProject
+
+05/23/2017  04:19 PM    <DIR>          .
+05/23/2017  04:19 PM    <DIR>          ..
+05/23/2017  04:19 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  415,625,191,424 bytes free
